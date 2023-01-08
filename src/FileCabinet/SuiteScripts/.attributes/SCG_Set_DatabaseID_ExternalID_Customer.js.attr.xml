@@ -1,0 +1,8 @@
+<file>
+  <availablewithoutlogin>F</availablewithoutlogin>
+  <bundleable>F</bundleable>
+  <description>Script to update Netsuite external ID from the Database ID coming from salesforce, and convert number to string value.</description>
+  <generateurltimestamp>F</generateurltimestamp>
+  <hideinbundle>F</hideinbundle>
+  <isinactive>F</isinactive>
+</file>
