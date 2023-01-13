@@ -1,5 +1,4 @@
 /**
- * Script Type:
  * File Name: ATNV_MR_Create_dummy_customer.js
  * Script:	ATNV | MR | Create Dummy Customer  [customscript_atnv_mr_create_dum_customer]
  * 				Parameter: 
