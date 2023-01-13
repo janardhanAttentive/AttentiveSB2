@@ -5,7 +5,7 @@
  *
  *
  * Date			        Author	              Remarks
- *                                     This Script creates Dummy Customers and Delete based on the Paramter Defined
+ *                                     Th Script creates Dummy Customers and Delete based on the Paramter Defined
  * 
  */
 
