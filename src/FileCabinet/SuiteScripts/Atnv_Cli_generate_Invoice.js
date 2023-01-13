@@ -1,6 +1,6 @@
  /**
  * Ticket: FSP-125
- * Script Type: Client Script 
+ * Script Type: Client
  * File Name: 	Atnv_Cli_generate_Invoice.js
  * Script Id:   ATNV | CLI | Generate Invoices  [customscript_atnv_cli_generate_invoices]  
  *
