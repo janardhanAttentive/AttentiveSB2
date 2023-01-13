@@ -2,10 +2,9 @@
  * Script:	ATNV | MR | Create Dummy Customer  [customscript_atnv_mr_create_dum_customer]
  * Deployment:	 ATNV | MR | Create Dummy Customer  [customdeploy_atnv_mr_create_dum_customer]
  *
- * Description: 
- * 
+ *
  * Date			        Author	              Remarks
- * 24-11-2022           Janardhan S           This Script creates Dummy Customers and Delete based on the Paramter Defined
+ * 24-11-2022                      This Script creates Dummy Customers and Delete based on the Paramter Defined
  * 
  */
 
