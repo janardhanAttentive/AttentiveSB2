@@ -4,7 +4,7 @@
  *
  *
  * Date			        Author	              Remarks
- * 24-11-2022                      This Script creates Dummy Customers and Delete based on the Paramter Defined
+ *                                     This Script creates Dummy Customers and Delete based on the Paramter Defined
  * 
  */
 
